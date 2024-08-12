@@ -9,12 +9,12 @@ Turtle Story is a game about a pet turtle and his wacky antics. It is used to ea
  
 ## Files
 
-*README.md - contains basic information about the code/files. Start here.
-*basking.jpg - An image of a turtle basking. Illustration from game.
-*eating.jpg - An image of a turtle being fed. Illustration from game.
-*swimming2.jpg - An image of a turtle swimming. Illustration from game.
-*turtlekiss.jpg - An image of a victorious turtle. Illustration from game.
-*turtlestory2023.html - The 2023 version of _Turtle Story_. Written in Harlowe,with some HTML markup.__
+* README.md - contains basic information about the code/files. Start here.
+* basking.jpg - An image of a turtle basking. Illustration from game.
+* eating.jpg - An image of a turtle being fed. Illustration from game.
+* swimming2.jpg - An image of a turtle swimming. Illustration from game.
+* turtlekiss.jpg - An image of a victorious turtle. Illustration from game.
+* turtlestory2023.html - The 2023 version of _Turtle Story_. Written in Harlowe,with some HTML markup.__
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -24,8 +24,11 @@ All files should be downloaded to a folder local to one's computer or mobile dev
 
 ## Contact
 ### Authors
+
 Jessica Linker - j.linker@northeastern.edu
+
 Author GitHub Link: https://github.com/jlinker81/TurtleStory
+
 Other links: http://www.jessicalinker.com/turtlestory/turtlestory.html
 
 
