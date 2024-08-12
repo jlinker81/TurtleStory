@@ -14,7 +14,7 @@ Turtle Story is a game about a pet turtle and his wacky antics. It is used to ea
 * eating.jpg - An image of a turtle being fed. Illustration from game.
 * swimming2.jpg - An image of a turtle swimming. Illustration from game.
 * turtlekiss.jpg - An image of a victorious turtle. Illustration from game.
-* turtlestory2023.html - The 2023 version of _Turtle Story_. Written in Harlowe,with some HTML markup.__
+* turtlestory2023.html - The 2023 version of _Turtle Story_. Written in Harlowe,with some HTML markup.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
